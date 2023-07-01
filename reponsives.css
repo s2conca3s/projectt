@@ -1,0 +1,117 @@
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .vers1{
+        flex-direction: inherit;
+        width: 90%;
+    }
+    .img2{
+        display: none;
+    }
+    .addgmail{
+        display: none;
+    }
+    .logomn{
+        width: 100%;
+    }
+    .ftend{
+        width: 100%;
+    }
+    .topic{
+        width: 500px;
+    }
+    .imgbox2{
+        height: 100%;
+    }
+    .stt-std1{
+        display: flex;
+        width: 100%;
+    }
+    .stt-std{
+        flex-direction: column;
+        width: 100%;
+    }
+    .ver-outstd{
+        height: 100%;
+    }
+    .db-std{
+        width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 767px) {
+    .vers1{
+        width: 100%;
+        flex-direction: inherit;
+    }
+    .db-std{
+        width: 100%;
+    }
+    .infoall{
+        width: 100%;
+    }
+    .img2{
+        display: none;
+    }
+    .addgmail{
+        display: none;
+    }
+    .logomn{
+        width: 100%;
+    }
+    .ftend{
+        width: 100%;
+    }
+    .stt-std{
+        flex-direction: column;
+        width: 100%;
+    }
+    .ver-outstd{
+        height: 100%;
+    }
+    .stt-std1{
+        display: flex;
+        width: 100%;
+    }
+    .imgbox2{
+        height: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    .vers1{
+        width: 100%;
+        flex-direction: inherit;
+    }
+    .db-std{
+        width: 100%;
+    }
+    .ver-outstd{
+        height: 100%;
+    }
+    .stt-std1{
+        flex-direction: row;
+        width: 100%;
+    }
+    .stt-std{
+        flex-direction: column;
+        width: 100%;
+    }
+    .infoall{
+        width: 100%;
+    }
+    .img2{
+        display: none;
+    }
+    .logomn{
+        width: 100%;
+    }
+    .addgmail{
+        display: none;
+    }
+    .ftend{
+        width: 100%;
+    }
+    .imgbox2{
+        height: 100%;
+    }
+    
+ }
